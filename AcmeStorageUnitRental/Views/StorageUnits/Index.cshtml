@@ -1,0 +1,46 @@
+﻿
+@using AcmeStorageUnitRental.Models
+@model List<StorageUnit>
+@{
+    ViewBag.Title = "Storage Units";
+    
+
+}
+
+<h2>StorageUnits</h2>
+
+<div>Units</div>
+<table width="600" border="1" >
+    <thead>
+        <tr>
+            <td  align="center">Unit Number</td>
+            <td align="center">Size</td>
+            <td align="center">Monthly Rate</td>
+            <td align="center">Rented</td>
+            <td  align="center">Options</td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td width="90" align="center">
+                @Html.DisplayFor(modelItem => item.UnitNumber)
+            </td>
+            <td width="80"  align="center">
+                @Html.DisplayFor(modelItem => item.Size)
+            </td width="200">
+            <td width="95">
+                @Html.DisplayFor(modelItem => item.MonthlyCost)
+            </td>
+            <td width="80" align="center">
+                @Html.DisplayFor(modelItem => item.CurrentlyRented)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UnitNumber }) |
+                @Html.ActionLink("Details", "Details", new { id = item.UnitNumber }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UnitNumber })
+            </td>
+        </tr>
+    }
+
+</table>
