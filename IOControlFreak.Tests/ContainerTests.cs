@@ -9,6 +9,7 @@ using IOControlFreak.Exceptions;
 
 namespace IoControlFreak.Tests
 {
+
     public class ContainerTests
     {
         private CFContainer _commonTestContainer;
@@ -24,7 +25,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_registers_types()
+        public void Container_registers_types()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -37,7 +38,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_manages_lifecycletypes()
+        public void Container_manages_lifecycletypes()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -54,7 +55,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_resolved_objects_are_transient_by_Default()
+        public void registered_objects_are_transient_by_Default()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -67,7 +68,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_resolving_unregistered_types_throws_exception()
+        public void resolving_unregistered_types_throws_exception()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -82,7 +83,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_registering_duplicate_types_throws_exception()
+        public void registering_duplicate_types_throws_exception()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -97,7 +98,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_registering_invalid_interfaces_type_pairs_throws_exception()
+        public void registering_invalid_interfaces_type_pairs_throws_exception()
         {
             //Arrange        
             var testContainer = new CFContainer();
@@ -112,7 +113,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_resolves_constructor_dependencies()
+        public void Container_resolves_constructor_dependencies()
         {
             //Arrange        
 
@@ -128,7 +129,7 @@ namespace IoControlFreak.Tests
         }
 
         [Fact]
-        public void test_Container_resolves_nested_constructor_dependencies()
+        public void Container_resolves_nested_constructor_dependencies()
         {
             //Arrange        
 

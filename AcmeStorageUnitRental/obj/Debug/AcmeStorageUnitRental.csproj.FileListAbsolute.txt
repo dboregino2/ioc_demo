@@ -68,12 +68,6 @@ D:\Git\IoControlFreak\AcmeStorageUnitRental\obj\Debug\AcmeStorageUnitRental.cspr
 D:\Git\IoControlFreak\AcmeStorageUnitRental\obj\Debug\AcmeStorageUnitRental.csproj.CoreCompileInputs.cache
 D:\Git\IoControlFreak\AcmeStorageUnitRental\obj\Debug\AcmeStorageUnitRental.dll
 D:\Git\IoControlFreak\AcmeStorageUnitRental\obj\Debug\AcmeStorageUnitRental.pdb
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.IO.Compression.dll
-D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\VBCSCompiler.exe
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csc.exe
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csc.exe.config
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csc.rsp
@@ -81,9 +75,13 @@ D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csi.exe
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csi.exe.config
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\csi.rsp
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -93,6 +91,7 @@ D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.Console.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.Diagnostics.Process.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.IO.Compression.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.IO.FileSystem.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -115,7 +114,11 @@ D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\System.Xml.XPath.XDocument.
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\vbc.exe
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\vbc.exe.config
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\vbc.rsp
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\VBCSCompiler.exe
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\AcmeStorageUnitRental.dll.config
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\AcmeStorageUnitRental.dll
+D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\AcmeStorageUnitRental.pdb
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\IOControlFreak.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Git\ioc_demo_app\AcmeStorageUnitRental\bin\Microsoft.Web.Infrastructure.dll

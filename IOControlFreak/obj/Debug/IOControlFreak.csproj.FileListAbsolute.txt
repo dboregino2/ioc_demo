@@ -22,3 +22,4 @@ D:\Git\ioc_demo_app\IOControlFreak\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Git\ioc_demo_app\IOControlFreak\obj\Debug\IOControlFreak.csproj.CoreCompileInputs.cache
 D:\Git\ioc_demo_app\IOControlFreak\obj\Debug\IOControlFreak.dll
 D:\Git\ioc_demo_app\IOControlFreak\obj\Debug\IOControlFreak.pdb
+D:\Git\ioc_demo_app\IOControlFreak\obj\Debug\IOControlFreak.csprojResolveAssemblyReference.cache

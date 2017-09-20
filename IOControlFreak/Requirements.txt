@@ -15,3 +15,5 @@ a.	Example Constructor: public UsersController(ICalculator calculator,  IEmailSe
 11.	General Suggestion: Don't let the overall tasks overwhelm you. Break everything into smaller pieces that build up to the larger solution.
 12.	Be prepared to answer a question along the lines of… How would your code change if given the requirement to add a new lifecycle (ThreadStatic for instance)? Would you be required to add new code, or modify existing code?
 
+console testrunner
+ .\xunit.console D:\Git\ioc_demo_app\IOControlFreak.Tests\bin\Debug\IOControlFreak.Tests.dll
